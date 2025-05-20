@@ -14,3 +14,4 @@ else
     Console.WriteLine($"max => {number2} ");
 }
 Console.WriteLine("Hello Manvel");
+System.Console.WriteLine("hi");
